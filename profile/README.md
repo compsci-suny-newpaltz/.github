@@ -14,9 +14,7 @@
 
 ## Welcome
 
-The **Department of Computer Science** at SUNY New Paltz prepares students for success in the rapidly evolving world of technology. Located in the scenic Hudson Valley, our department offers rigorous programs with small class sizes, hands-on project work, and close collaboration with industry partners.
-
-Our graduates have gone on to build careers at companies including **IBM**, **Goldman Sachs**, **Meta**, and throughout the thriving Hudson Valley tech ecosystem.
+The **Department of Computer Science** at SUNY New Paltz prepares students for success in the rapidly evolving world of technology. Located in the Hudson Valley, our department offers rigorous programs with small class sizes, hands-on project work, and close collaboration with industry partners.
 
 ---
 
@@ -24,7 +22,6 @@ Our graduates have gone on to build careers at companies including **IBM**, **Go
 
 | Degree | Credits | Description |
 |--------|---------|-------------|
-| **B.A. in Computer Science** | ~120 | Liberal arts focused pathway with CS foundations |
 | **B.S. in Computer Science** | ~120 | Technical depth with science/engineering emphasis |
 | **M.S. in Computer Science** | 30 | Advanced study in ML, AI, cybersecurity & data science |
 | **B.S./M.S. Accelerated Pathway** | Combined | Complete your master's in as few as 5 years |
@@ -61,9 +58,8 @@ Our faculty includes **Distinguished SUNY Professors**, bringing world-class res
 ## Get Involved
 
 ### Student Organizations & Events
-
-- **New Paltz GDG** — New Paltz Google Developer Group
 - **[Eleet Coders](https://eleetcoders.onrender.com/)** — Computer Science Career Prep Club
+- **New Paltz GDG** — New Paltz Google Developer Group
 - **Hackathons** — Student-run hackathons every semester
 
 ### Contributing to Our Projects
