@@ -59,8 +59,8 @@ Our faculty includes **Distinguished SUNY Professors**, bringing world-class res
 
 ### Student Organizations & Events
 - **[Eleet Coders](https://eleetcoders.onrender.com/)** — Computer Science Career Prep Club
-- **New Paltz GDG** — New Paltz Google Developer Group
-- **Hackathons** — Student-run hackathons every semester
+- [**New Paltz GDG**](https://gdg.community.dev/gdg-on-campus-suny-new-paltz-united-states/) — New Paltz Google Developer Group
+- [**Hackathons**](https://hydra.newpaltz.edu/hackathons/) — Student-run hackathons every semester
 
 ### Contributing to Our Projects
 
